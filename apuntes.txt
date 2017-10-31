@@ -1,0 +1,101 @@
+RubyMine 
+
+VisualStudio code  gratuito
+testear: irb
+
+puts "Hola mundo"
+
+def momentito
+    puts "Un momento, estoy ocupado"
+    sleep(7)
+    puts "Listo, ya estoy"  
+end
+
+def contador_de_numeros
+    puts 3
+    puts 2
+    puts 1
+end
+
+contador_de_numeros
+momentito
+
+uestro programa:
+
+1- salude a los usuarios
+2- pida una cantidad al usuario(lo que sea)
+3- calcula el importe
+4- haga descuento por cantidad
+
+=end
+def saluda
+    puts "Hola, Buenos dias, usuario"
+end
+
+saluda
+
+return..
+
+ #{nombre}
+
+ para que sea todo junto
+.chomp
+
+  \\t  para escapar caracter
+
+documentacion--- ruby doc
+
+gets.chomp limpia las /n y esaos comandos
+
+a=12
+b=7
+
+cmd escribir irb + intro
+
+https://github.com/bypixelpro/CursoRubyNov17/blob/master/solucion1de2.rb
+
+https://github.com/bypixelpro/CursoRubyNov17
+
+
+Cuando escribe
+
+ejecutar ruby profe.rb
+
+
+cmd escribir irb + intro
+
+https://escuelavirtual.madrid.es/
+
+git
+
+https://try.github.io/levels/1/challenges/1
+
+nuevo repositirio
+git init
+
+despues:  git status
+otra vez git status
+se añade archivo git add actocat.txt
+git commit -m "Iniciando
+
+git add '*txt'  .. pedir todos lot txt
+
+git commit -m 'todos los txt listos'
+
+$ git log
+
+git remote add origin https://github.com/try-git/try_git.git     se pincha arriba y se pone este comando
+
+git push -u origin master
+
+git pull origin master
+
+git diff HEAD
+
+ git add octofamily/octodog.txt
+
+git diff --staged
+
+ git checkout -- octocat.txt
+
+gut hut-----------------------------martaya66.   capitan6     martaya6@gmail.com
